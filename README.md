@@ -1,4 +1,4 @@
-# Server-monitoring
+# Server-Monitoring
 Server monitoring using cloudwatch &amp; user and group creation using IAM service
 
 Description
